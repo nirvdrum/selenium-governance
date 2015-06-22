@@ -14,6 +14,7 @@ In your report please include:
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
 
+
 ## What happens after you file a report?
 
 You will receive an email from the Selenium Code of Conduct Working Group acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
@@ -41,6 +42,8 @@ We'll respond within one week to the person who filed the report with either a r
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we don't guarantee we'll act on it.
 
 Finally, the Working Group will make a report on the situation to the Selenium Committee. The board may choose to a public report of the incident.
+
+*Note:* We want the process to be analogous to reporting a security problem. Report via the email and if we don't reply with in the agreed time then feel free to make it public. Going public first puts everyone in an awkward position and can lead to biases affecting the groups objectivity. 
 
 ## Appealing
 
