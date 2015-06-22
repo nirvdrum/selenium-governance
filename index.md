@@ -1,6 +1,6 @@
 # Governance
 
-The Selenium project is a large that it can not, and must not, be run by a single person making decisions. 
+The Selenium project is a large that it can not, and must not, be run by a single person making decisions.
 
 ## Project Committee
 
@@ -9,18 +9,18 @@ The Selenium project has 5 people who, with the help of the Software Freedom Con
 The Project Committee will meet at least 6 times a year. Minutes  from those meetings will be publicly available. This is to make sure that the project committee are keeping
 
 The Project Committee are voted in if they meet the following criteria:
-* Only have a maximum of 2 people from the same company. 
-** This is to make sure the direction of the project is not influence by a single company.
+* Only have a maximum of 2 people from the same company.
+ * This is to make sure the direction of the project is not influence by a single company.
 * The person has been contributing to the project for more than 6 months.
-** Contributions can take the following form
-*** Are a peer or module owner within the Selenium Project.
-**** Have made a change to a Selenium repository or documentation.
-*** Regularly make contributions to the W3C WebDriver Working Group
-**** Are a member of the W3C Working Group as either a W3C Member or Invited Expert.
-**** Supplying change sets for the WebDriver specification
-**** Supplying changesets for tests for the WebDriver Specifications
-*** Helping out on mailing lists when people have questions
-*** Helping out on forums not directly associated with the Selenium Project. For example on https://stackoverflow.com
+ * Contributions can take the following form
+ * Are a peer or module owner within the Selenium Project.
+   * Have made a change to a Selenium repository or documentation.
+   * Regularly make contributions to the W3C WebDriver Working Group
+   * Are a member of the W3C Working Group as either a W3C Member or Invited Expert.
+   * Supplying change sets for the WebDriver specification
+   * Supplying changesets for tests for the WebDriver Specifications
+  * Helping out on mailing lists when people have questions
+  * Helping out on forums not directly associated with the Selenium Project. For example on https://stackoverflow.com
 
 The Project Committee tenure is to last for 24 months. At the end of this time the Project Committee members will need to re-elected to the post.
 
@@ -28,11 +28,11 @@ If a Project Committee member, during their tenure, does not meet any of the cri
 
 ## Modules
 
-A module is, in the case of code, a piece of functionality, or in the case of non-code, an activity, with reasonably well-defined boundaries. (Some of the below explanation is code-focussed, but analogous points can be made for non-code.). 
+A module is, in the case of code, a piece of functionality, or in the case of non-code, an activity, with reasonably well-defined boundaries. (Some of the below explanation is code-focussed, but analogous points can be made for non-code.).
 
 ### Module Owners
 
-The Selenium Project has a number of subject matter experts who, through expertise or historical reasons, have come to “own” particular pieces of the project. These Module Owners own the direction of the project and, with the help of the Module Peers, make sure that improvement to code and documentation is done. 
+The Selenium Project has a number of subject matter experts who, through expertise or historical reasons, have come to “own” particular pieces of the project. These Module Owners own the direction of the project and, with the help of the Module Peers, make sure that improvement to code and documentation is done.
 
 Module owners are not tyrants. They are chartered to make decisions with input from the community and in the best interests of the community. Module owners are not required to make code changes or additions solely because the community wants them to do so. (Like anyone else, the module owners may write code because they want to, because their employers want them to, because the community wants them to, or for some other reason.) Module owners do need to pay attention to patches submitted to that module. However “pay attention” does not mean agreeing to every patch.
 
