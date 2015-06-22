@@ -10,15 +10,15 @@ The Project Committee will meet at least 6 times a year. Minutes  from those mee
 
 The Project Committee are voted in if they meet the following criteria:
 * Only have a maximum of 2 people from the same company.
- * This is to make sure the direction of the project is not influence by a single company.
+  * This is to make sure the direction of the project is not influence by a single company.
 * The person has been contributing to the project for more than 6 months.
- * Contributions can take the following form
- * Are a peer or module owner within the Selenium Project.
-   * Have made a change to a Selenium repository or documentation.
-   * Regularly make contributions to the W3C WebDriver Working Group
-   * Are a member of the W3C Working Group as either a W3C Member or Invited Expert.
-   * Supplying change sets for the WebDriver specification
-   * Supplying changesets for tests for the WebDriver Specifications
+  * Contributions can take the following form
+  * Are a peer or module owner within the Selenium Project.
+    * Have made a change to a Selenium repository or documentation.
+  * Regularly make contributions to the W3C WebDriver Working Group
+    * Are a member of the W3C Working Group as either a W3C Member or Invited Expert.
+    * Supplying change sets for the WebDriver specification
+    * Supplying changesets for tests for the WebDriver Specifications
   * Helping out on mailing lists when people have questions
   * Helping out on forums not directly associated with the Selenium Project. For example on https://stackoverflow.com
 
