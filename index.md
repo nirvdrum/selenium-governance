@@ -6,7 +6,10 @@ The Selenium project is a large that it can not, and must not, be run by a singl
 
 The Selenium project has 5 people who, with the help of the Software Freedom Conservancy, will control the day to day running of the project.
 
-The Project Committee will meet at least 6 times a year. Minutes  from those meetings will be publicly available. This is to make sure that the project committee are keeping
+The Project Committee will meet at least 6 times a year. Minutes from those
+meetings will be publicly available. This is to make sure that the project
+committee are regularly meeting and Module Owners and Module Peers can be aware
+of changes that are regularly happening.
 
 The Project Committee are voted in if they meet the following criteria:
 * Only have a maximum of 2 people from the same company.
@@ -25,6 +28,10 @@ The Project Committee are voted in if they meet the following criteria:
 The Project Committee tenure is to last for 24 months. At the end of this time the Project Committee members will need to re-elected to the post.
 
 If a Project Committee member, during their tenure, does not meet any of the criteria above there will be a vote to replace that person.
+
+### Voting
+
+Voting for new Project Committee members is done by Module Owners and Module peers.
 
 ## Modules
 
