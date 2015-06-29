@@ -16,7 +16,7 @@ The Project Committee are voted in if they meet the following criteria:
   * This is to make sure the direction of the project is not influence by a single company.
 * The person has been contributing to the project for more than 6 months.
   * Contributions can take the following form:
-    * Are a peer or module owner within the Selenium Project.
+    * Are a Module Owner or Module Peer within the Selenium Project.
       * Have made a change to a Selenium repository or documentation.
     * Regularly make contributions to the W3C WebDriver Working Group
       * Are a member of the W3C Working Group as either a W3C Member or Invited Expert.
@@ -31,7 +31,7 @@ If a Project Committee member, during their tenure, does not meet any of the cri
 
 ### Voting
 
-Voting for new Project Committee members is done by Module Owners and Module peers.
+Voting for new Project Committee members is done by Module Owners and Module Peers.
 
 ## Modules
 
@@ -41,25 +41,25 @@ A module is, in the case of code, a piece of functionality, or in the case of no
 
 The Selenium Project has a number of subject matter experts who, through expertise or historical reasons, have come to “own” particular pieces of the project. These Module Owners own the direction of the project and, with the help of the Module Peers, make sure that improvement to code and documentation is done.
 
-Module owners are not tyrants. They are chartered to make decisions with input from the community and in the best interests of the community. Module owners are not required to make code changes or additions solely because the community wants them to do so. (Like anyone else, the module owners may write code because they want to, because their employers want them to, because the community wants them to, or for some other reason.) Module owners do need to pay attention to patches submitted to that module. However “pay attention” does not mean agreeing to every patch.
+Module Owners are not tyrants. They are chartered to make decisions with input from the community and in the best interests of the community. Module Owners are not required to make code changes or additions solely because the community wants them to do so. (Like anyone else, the Module Owners may write code because they want to, because their employers want them to, because the community wants them to, or for some other reason.) Module Owners do need to pay attention to patches submitted to that module. However “pay attention” does not mean agreeing to every patch.
 
 In terms of voting for a project committee, a Module Owner’s vote counts the same as a Module Peer.
 
 
 ### Module Peers
 
-A Module Peer is a person that has the ability to push changesets to a Selenium Project repository. Module Peers and Module owners can nominate people to become Module Peers if they have shown they will regularly make contributions to the Project. The nominees are then voted in by a simple majority vote (more +1s than -1/~1 votes)
+A Module Peer is a person that has the ability to push changesets to a Selenium Project repository. Module Peers and Module Owners can nominate people to become Module Peers if they have shown they will regularly make contributions to the Project. The nominees are then voted in by a simple majority vote (more +1s than -1/~1 votes)
 
 ### Removal of Module Peer Status
 
-A Module Peer will hold the position of Module peer indefinitely unless one of the following occurs:
+A Module Peer will hold the position of Module Peer indefinitely unless one of the following occurs:
 * Breaches the Code of Coduct of the project
 * The Module Peer asks to have their Module Peer status revoked.
 
 ## Escalation and Review
 
-The owner and peers of the Module Ownership module will get involved if controversy develops and cannot be resolved otherwise. A module owner may ask for a public statement of agreement with a particular action. Sometimes other contributors suggest ways in which a module owner might improve. Sometimes there is ongoing controversy. We prefer that the community resolve these issues when possible, but acknowledge that this can’t happen all the time. We try to avoid making absolute decisions like “this must happen” but will do so if required.
+The owner and peers of the Module Ownership module will get involved if controversy develops and cannot be resolved otherwise. A Module Owner may ask for a public statement of agreement with a particular action. Sometimes other contributors suggest ways in which a Module Owner might improve. Sometimes there is ongoing controversy. We prefer that the community resolve these issues when possible, but acknowledge that this can’t happen all the time. We try to avoid making absolute decisions like “this must happen” but will do so if required.
 
 ## Poorly Maintained Modules
 
-Periodically a module is not well maintained and no longer interacts well with the rest of the codebase. This can happen where there is no module owner, or when a designated module owner is too busy with other things to tend to the module. Conceivably it could happen when a module owner is active, but has an approach to a module that the community in general believes is inappropriate. We prefer that the development community identify such modules, propose a solution, and implement improvement. If this can’t happen for some reason then the Module Ownership Peers will get involved to find the best possible resolution.
+Periodically a module is not well maintained and no longer interacts well with the rest of the codebase. This can happen where there is no Module Owner, or when a designated Module Owner is too busy with other things to tend to the module. Conceivably it could happen when a Module Owner is active, but has an approach to a module that the community in general believes is inappropriate. We prefer that the development community identify such modules, propose a solution, and implement improvement. If this can’t happen for some reason then the Module Ownership Peers will get involved to find the best possible resolution.
