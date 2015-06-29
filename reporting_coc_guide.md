@@ -26,7 +26,7 @@ The working group will immediately meet to review the incident and determine:
 * Who the bad actor was.
 * Whether this is an ongoing situation, or if there is a threat to anyone's physical safety.
 
-If this is determined to be an ongoing incident or a threat to physical safety, the working groups' immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
+If this is determined to be an ongoing incident or a threat to physical safety, the working group's immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
 
 Once the working group has a complete account of the events they will make a decision as to how to response. Responses may include:
 
